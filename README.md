@@ -1,3 +1,1 @@
-# Toolset for detecting Data Errors and Outliers in SNOTEL data.
-
-Using logical tests and regression methods to detect errors and outliers in 30 years worth of SNOTEL datasets for stations in WA and OR.
+Anomaly detection toolset for SNOTEL data. Logical tests based on snow and meteorology domain knowledge are used along with outlier detection methods (zscore, boxplots, Isolated Forests).
