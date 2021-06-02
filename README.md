@@ -1,1 +1,3 @@
-Anomaly detection toolset for Snow Pack Telemetry (SNOTEL) data. Logical tests based on snow and meteorology knowledge are used along with outlier detection methods (zscore, boxplots, Isolated Forests).
+Work in progress...
+
+Anomaly detection toolset for Snow Pack Telemetry (SNOTEL) data. Logical tests based on snow and meteorology knowledge are being developed along with outlier detection methods (zscore, boxplots, Isolated Forests).
